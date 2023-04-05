@@ -35,7 +35,16 @@ Anaconda - Python 3.7
 
 i) Using Averaging Filter
 ```Python
+plt.figure(figsize = (8,8))
+plt.subplot(1,2,1)
+plt.imshow(image1)
+plt.title('original')
+plt.axis('off')
 
+plt.subplot(1,2,2)
+plt.imshow(image2)
+plt.title('Filtered')
+plt.axis('off')
 
 
 
