@@ -151,17 +151,20 @@ iii) Using Gaussian Filter
 
 
 iv) Using Median Filter
+
 ![sodapdf-converted (1)](https://user-images.githubusercontent.com/94165415/232838837-57483100-5dc1-4a98-b886-8012f28f8281.jpg)
 
 
 ### 2. Sharpening Filters
-</br>
+
 
 i) Using Laplacian Kernal
+
 ![sodapdf-converted (4)](https://user-images.githubusercontent.com/94165415/232839663-2df3553b-ab05-4ada-9bea-f37f2e042bc0.jpg)
 
 
 ii) Using Laplacian Operator
+
 ![sodapdf-converted (5)](https://user-images.githubusercontent.com/94165415/232839732-14a0312f-d3c5-47c9-abd2-a9af848da288.jpg)
 
 
